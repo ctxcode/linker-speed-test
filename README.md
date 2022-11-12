@@ -1,7 +1,7 @@
 
 # c link speed: Many small o files vs. Few big o files
 
-Simple test to see which is faster. I dont even know if this test can be compared to real code
+Simple test to see which is faster. I dont know if this test can be compared to real code
 
 ## Results
 
