@@ -1,9 +1,11 @@
 
-# Link speed: Many small o files vs. Few big o files
+# c link speed: Many small o files vs. Few big o files
 
 Simple test to see which is faster. I dont even know if this test can be compared to real code
 
 ## Results
+
+Linker used: `gcc`
 
 ```
 1000 files, 10 functions -> 1.7s
