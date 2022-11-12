@@ -70,7 +70,7 @@ $cmd = "cc -O0 ".(implode(" ", $ofiles))." -o $dir/out";
 echo "# cmd: $cmd\n\n";
 system($cmd);
 
-echo "Time: " . (microtime(true) - $start) .  "ms\n";
+echo "Time: " . (microtime(true) - $start) .  "s\n";
 
 echo "\n# Done\n";
 
