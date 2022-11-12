@@ -7,6 +7,17 @@ Simple test to see which is faster. I dont know if this test can be compared to 
 
 Linker used: `gcc`
 
+Linux:
+
+```
+1000 files, 10 functions -> 0.290s
+100 files, 100 functions -> 0.077s
+10 files, 1000 functions -> 0.063s
+1 files, 10000 functions -> 0.058s
+```
+
+WSL:
+
 ```
 1000 files, 10 functions -> 1.7s
 100 files, 100 functions -> 0.2s
